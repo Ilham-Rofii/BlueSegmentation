@@ -1,7 +1,2 @@
 streamlit
-scikit-image
-opencv-python
-numpy
-matplotlib
-scipy
-pandas
+
