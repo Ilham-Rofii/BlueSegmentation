@@ -1,7 +1,7 @@
-streamlit == 1.25.0
-scikit-image == 0.19.3
-opencv-python == 4.7.0.72 
-numpy == 1.22.4
-matplotlib == 3.7.1
-scipy == 1.10.1
-pandas == 1.5.3
+streamlit
+scikit-image
+opencv-python
+numpy
+matplotlib
+scipy
+pandas
