@@ -47,6 +47,8 @@ if choice == "Home":
     st.text("label_image")
     df = df_extract(img,img0)
     st.text("df_extract")
+    st.image(img)
+    ###
     img = label_rgb(img,img0)
     st.text("label_grb")
     st.header("Labeled Blue Segmentation Image")
