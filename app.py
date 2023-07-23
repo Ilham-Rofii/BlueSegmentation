@@ -32,7 +32,7 @@ def df_extract(label_image,img):
   return df
 if choice == "Home":
   st.subheader("Home")
-  st.text("Max image size is 100KB due to web hosting limitation")
+  st.text("Max image size is 100KB due to web hosting limitation.")
   image_file=st.file_uploader("Upload Image",type=['PNG','JPG','JPEG'])
   if image_file is not None:
     img = io.imread(image_file)
