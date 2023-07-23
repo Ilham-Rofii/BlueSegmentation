@@ -7,7 +7,7 @@ from scipy import ndimage as nd
 from skimage.color import label2rgb
 import pandas as pd
 
-st.title("Blue Color Segmentation")
+st.title("Blue Color Segmentation :red[by Ilham Rofii]")
 menu=["Home","About"]
 choice=st.sidebar.selectbox("Menu",menu)
 
